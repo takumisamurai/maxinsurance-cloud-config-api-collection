@@ -1,0 +1,1 @@
+# maxinsurance-cloud-config-api-collection
